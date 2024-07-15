@@ -8,3 +8,21 @@ body {
   height: 100vh;
   background-color: #111;
 }
+
+.line {
+  color: orangered;
+  width: 300px;
+  border-bottom: 4px solid beige;
+  position: relative;
+  animation: line 2s linear infinite;
+}
+
+.hexagon {
+  position: absolute;
+  left: 0;
+  bottom: 14px;
+  width: 50px;
+  height: 30px;
+  background-color: beige;
+  animation: 
+}
